@@ -9,6 +9,15 @@ The goal of AirBnB project is to eventually deploy our server a simple copy of t
 
 ## Getting Started
 
+. Table of Content
+. Environment
+. Installation
+. File Descriptions
+. Usage
+. Examples of use
+ 
+ 
+ 
  
 **What’s a command interpreter?**
 
