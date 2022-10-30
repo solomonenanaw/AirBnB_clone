@@ -9,6 +9,7 @@ The goal of AirBnB project is to eventually deploy our server a simple copy of t
 
 ## Getting Started
 
+
 Table of Content
 
 . Environment
@@ -42,6 +43,7 @@ be able to manage the objects of our project:
 
 - Destroy an object
 
+  
   
 
 ### Learning Objectives
