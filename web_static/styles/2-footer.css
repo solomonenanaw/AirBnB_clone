@@ -1,12 +1,10 @@
-footer {
-	background-color: #00FF00;
-	bottom: 0;
-	height: 60px;
-	position: absolute;
-	width: 100%;
+footer div {
+    background-color: #00FF00;
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    line-height: 60px;
 }
 
-footer p {
-	line-height: 30px;
-	text-align: center;
-}
