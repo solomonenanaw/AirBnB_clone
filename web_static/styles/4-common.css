@@ -1,20 +1,23 @@
-html, body {
-	height: 100%;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100vh;
 }
 
 body {
-	display: flex;
-	flex-direction: column;
-	color: #484848;
-	font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 14px;
-	margin: 0;
-	padding: 0;
+    color : #484848;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    position: relative;
+    height:100%;
 }
 
-div.container {
-	flex: 1 0 auto;
-	margin: 30px auto;
-	max-width: 1000px;
-	width: 100%;
+.container {
+    max-width: 1000px;
+    margin: 30px auto;
+    height: 250%;
 }
