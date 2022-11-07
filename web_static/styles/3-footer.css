@@ -1,18 +1,18 @@
-.footer {
-	align-items: center;
-	background-color: white;
-	border-top: 1px solid #CCCCCC;
-	display: flex;
-	height: 60px;
-	justify-content: center;
-	width: 100%;
+footer {
+    display: flex;
+    border-top: 1px solid #CCCCCC;
+    height: 60px;
+    width: 100%;
+    background-color: white;
+    align-items: stretch;
+    flex-direction: row;
+    justify-content: center;
+    bottom: 0;
+    position: fixed;
 }
 
-.footer-absolute {
-	bottom: 0;
-	position: absolute;
-}
-
-.footer-dynamic {
-	flex-shrink: 0;
+.footText {
+    text-align: center;
+    display: flex;
+    align-items: center;
 }
